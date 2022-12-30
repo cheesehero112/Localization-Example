@@ -2,7 +2,7 @@
   "homepage": "https://cheesehero112.github.io/Localization-Example",
   "name": "localization-example",
   "author": "Chihiro Snider",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
