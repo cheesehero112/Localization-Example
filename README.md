@@ -14,14 +14,19 @@ This example was created to accompany my Tech Talk on Software Localization as a
 This web application lets a user click a button to change all the texts and flag image into English, Spanish, or Japanese.
 The file structure is setup with scalability in mind. It is simple to add more texts and more languages to expand the page.
 
-![Localization-Eng](/Users/chihiroshibayama/git/Localization/localization-example/media/Localization-Eng.png)
+![Localization-Eng](https://github.com/cheesehero112/Localization-Example/raw/main/media/Localization-Eng.png)
 
-![Localization-SP](/Users/chihiroshibayama/git/Localization/localization-example/media/Localization-SP.png)
+![Localization-SP](https://github.com/cheesehero112/Localization-Example/raw/main/media/Localization-SP.png)
 
-![Localization-Jp](/Users/chihiroshibayama/git/Localization/localization-example/media/Localization-Jp.png)
+![Localization-Jp](https://github.com/cheesehero112/Localization-Example/raw/main/media/Localization-Jp.png)
 
 ## Files
 
+- media
+  - Localization-End.png
+  - Localization-Jp.png
+  - Localization-SP.png
+  
 - src
   - assets
     - earth-lg.png
