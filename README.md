@@ -9,6 +9,9 @@ A user can select between English, Spanish, and Japanese by clicking a correspon
 
 This example was created to accompany my Tech Talk on Software Localization as an example project.
 
+Please visit this URL to view the website:
+https://localization-example.netlify.app
+
 ## Features
 
 This web application lets a user click a button to change all the texts and flag image into English, Spanish, or Japanese.
@@ -26,7 +29,6 @@ The file structure is setup with scalability in mind. It is simple to add more t
   - Localization-End.png
   - Localization-Jp.png
   - Localization-SP.png
-  
 - src
   - assets
     - earth-lg.png
