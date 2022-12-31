@@ -10,7 +10,7 @@ function App() {
     <div className='App'>
       <div>
         <img
-          src='../src/assets/earth-lg.png'
+          src='https://drive.google.com/uc?export=view&id=10Hrc_JsF-kYWPJi4ouYzA4Bi2kZEWha9'
           className='logo'
           alt='earth logo'
         />
