@@ -7,7 +7,9 @@ Localization Example web application is created by using Vite & React.
 This is a simple example of how to localize a single website into multiple languages.
 A user can select between English, Spanish, and Japanese by clicking a corresponding button.
 
-This example was created to accompany my Tech Talk on Software Localization as an example project.
+It is designed and structured in a way it's easy to scale up as needed. Please read the how to use section to add more languages and/or texts.
+
+This example was created to accompany my Tech Talk sponsored by JEENEY and Bractlet on Software Localization as an example project.
 
 Please visit this URL to view the website:
 https://localization-example.netlify.app
