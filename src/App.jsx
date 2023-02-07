@@ -10,7 +10,7 @@ function App() {
     <div className='App'>
       <div>
         <img
-          src='https://github.com/cheesehero112/Localization-Example/raw/main/src/earth-lg.png'
+          src='https://github.com/cheesehero112/Localization-Example/raw/main/media/earth-png-25612.png'
           className='logo'
           alt='earth logo'
         />
